@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
- 
- 
-<hr/>
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mcosta21.mcosta21"/>
- 
